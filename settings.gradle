@@ -1,0 +1,2 @@
+include ':app', ':counter', ':lighttraffic'
+rootProject.name='Petrovskiy_gr3'
